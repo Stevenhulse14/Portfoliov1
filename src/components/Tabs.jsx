@@ -1,9 +1,9 @@
 import { Tab, Tabs, Box, Typography } from "@mui/material";
 import { useState } from "react";
-import PersonIcon from "@mui/icons-material/Person";
 
-import CodeIcon from "@mui/icons-material/Code";
-import MailIcon from "@mui/icons-material/Mail";
+import LooksOneIcon from "@mui/icons-material/LooksOne";
+import LooksTwoIcon from "@mui/icons-material/LooksTwo";
+import Looks3Icon from "@mui/icons-material/Looks3";
 function TabsAbout() {
   const [tabIndex, setTabIndex] = useState(0);
 
@@ -72,17 +72,17 @@ function TabsAbout() {
       >
         <Tab
           //label="About"
-          icon={<PersonIcon />}
+          icon={<LooksOneIcon />}
           sx={{ color: "whitesmoke", fontSize: "0.80rem" }}
         />
         <Tab
           //label="Projects"
-          icon={<CodeIcon />}
+          icon={<LooksTwoIcon />}
           sx={{ color: "whitesmoke", fontSize: "0.80rem" }}
         />
         <Tab
           //label="Contact"
-          icon={<MailIcon />}
+          icon={<Looks3Icon />}
           sx={{ color: "whitesmoke", fontSize: "0.80rem" }}
         />
       </Tabs>
@@ -100,17 +100,19 @@ function TabsAbout() {
                 overflow: "auto",
               }}
             >
-              I am a Software Developer Army Veteran that stationed in NYC. I am
-              fun outgoing and free spirited. Some activities that I enjoy on my
-              free time are listening to music, coding, playing video games, and
-              going on little nyc adventures. My Profile does a great job of
-              showcasing my resume and projects, does a great job at showcasing
-              my skills. So I will use this section to express thing that my
-              resume won't. I am extremely passionate about learning in general
-              and I am always looking for new things to learn. This field is
-              perfect for me, as I get bored very easily, but with this
-              perfession I am always learning new things, or exploring some new
-              technology to incorporate into my projects and tech stack.
+              am a Software Developer and a proud Army Veteran currently
+              stationed in NYC. As an individual, I embody a fun, outgoing, and
+              free-spirited nature. During my leisure time, you can find me
+              indulging in activities such as listening to music, coding,
+              playing video games, and embarking on little NYC adventures. While
+              my profile effectively showcases my resume and projects, I view
+              this section as an opportunity to express aspects that go beyond
+              what my resume can convey. A core aspect of my personality is an
+              insatiable passion for learning. I am constantly seeking new
+              knowledge and skills in various domains. This field is an ideal
+              fit for me, as I thrive on continuous challenges and exploration
+              of emerging technologies to incorporate into my projects and tech
+              stack.
             </Typography>
           </Box>
         )}
@@ -124,17 +126,21 @@ function TabsAbout() {
                 overflow: "auto",
               }}
             >
-              This curiosity and passion for learning has also driven me to
-              learn how to do many thing. I learned how to create Beats with
-              Serato Studio, Create Beautiful Animations with DaVinci Resolve.
-              This isn't all I also Created, edited and recorded with OBS Studio
-              and many different video editing software. Did I mention I know
-              how to draw and have been drawing and designing since I was a
-              child. I was selected for multiple art programs in my youth but
-              decided on an other path. The reason I list all these qualities is
-              because I believe that they are all connected in my goal to be a
-              great fullstack developer but an even better frontend developer
-              and UX/UI design.
+              This insatiable curiosity and passion for learning has driven me
+              to explore and acquire a diverse skill set. I have immersed myself
+              in various creative endeavors, including creating beats with
+              Serato Studio and crafting beautiful animations using DaVinci
+              Resolve. Additionally, my proficiency extends to video editing,
+              having worked with OBS Studio and various editing software.
+              Drawing and designing have been a lifelong passion, as I have been
+              honing my artistic skills since childhood and was selected for
+              multiple art programs during my youth, though I ultimately chose a
+              different path. I emphasize these qualities because I firmly
+              believe they converge in my pursuit of becoming an exceptional
+              full-stack developer with a strong focus on frontend development
+              and UX/UI design. My diverse background has instilled in me a
+              unique perspective and creative problem-solving approach that I
+              bring to my coding and design projects.
             </Typography>
           </Box>
         )}
@@ -148,10 +154,14 @@ function TabsAbout() {
                 overflow: "auto",
               }}
             >
-              I am a Software Developer Army Veteran that stationed in NYC. I am
-              fun outgoing and free spirited. Some activities that I enjoy on my
-              free time are listening to music, coding, playing video games, and
-              going on little nyc adventures.
+              My goal is to leverage these multifaceted skills to not only excel
+              as a developer but also to enhance the user experience and craft
+              aesthetically appealing interfaces. I am excited to channel my
+              passion into creating innovative and user-centric applications
+              that leave a lasting impact on the digital landscape. Thank you
+              for considering my diverse skill set and how it contributes to my
+              vision of becoming an amazing fullstack dev while striving to be
+              outstanding frontend developer and UX/UI designer.
             </Typography>
           </Box>
         )}
