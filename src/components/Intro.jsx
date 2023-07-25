@@ -123,7 +123,7 @@ const Intro = ({ name, bio, avatarUrl }) => {
             United States, Brooklyn, NY
           </Typography>
           <Typography variant="h6" sx={{ fontSize: "10px" }}>
-            Email : Stevenhulse1993@gmail.com | Phone : 347-951-1234
+            Email : Stevenhulse1993@gmail.com | Phone : 347-581-6882
           </Typography>
         </Box>
       </Grid>
