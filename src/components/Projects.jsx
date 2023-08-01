@@ -31,6 +31,16 @@ const cardData = [
     youtube: "",
   },
   {
+    id: 3,
+    title: "Metaverse",
+    description: "Explore the Metaverse with a beautiful UX/UI",
+    imageUrl:
+      "https://res.cloudinary.com/dfyly0twx/image/upload/v1690932341/projectIcons/metaverse.png",
+    githubUrl: "https://github.com/Stevenhulse14/Metaverse",
+    deployed: "https://metaverse-mu-lovat.vercel.app/",
+    youtube: "",
+  },
+  {
     id: 8,
     title: "Weather App",
     description: "A weather application that uses the OpenWeather API",
@@ -62,16 +72,6 @@ const cardData = [
     youtube: "",
   },
 
-  {
-    id: 3,
-    title: "BlackJack",
-    description: "Is a blackjack game that I made using React.js",
-    imageUrl:
-      "https://res.cloudinary.com/dfyly0twx/image/upload/v1689876744/projectIcons/InWorks.png",
-    githubUrl: "https://github.com/Stevenhulse14/",
-    deployed: "",
-    youtube: "",
-  },
   {
     id: 4,
     title: "Weston Hospitality",
