@@ -71,7 +71,17 @@ const cardData = [
     deployed: "",
     youtube: "",
   },
-
+  {
+    id: 5,
+    title: "HeyCat",
+    description:
+      "Using basic Js, css and html to bring this page to life with beautiful user design",
+    imageUrl:
+      "https://res.cloudinary.com/dfyly0twx/image/upload/v1690935456/projectIcons/Catpage.png",
+    githubUrl: "https://github.com/Stevenhulse14/bincat",
+    deployed: "https://mellifluous-semifreddo-83674c.netlify.app/",
+    youtube: "",
+  },
   {
     id: 4,
     title: "Weston Hospitality",
@@ -79,17 +89,6 @@ const cardData = [
     imageUrl:
       "https://res.cloudinary.com/dfyly0twx/image/upload/v1689876744/projectIcons/InWorks.png",
     githubUrl: "https://github.com/Stevenhulse14/Westonhospitality",
-    deployed: "",
-    youtube: "",
-  },
-  {
-    id: 5,
-    title: "Cat API",
-    description:
-      "Cat API is a website that allows users to search for cat images and gifs.",
-    imageUrl:
-      "https://res.cloudinary.com/dfyly0twx/image/upload/v1689876744/projectIcons/InWorks.png",
-    githubUrl: "https://github.com/Stevenhulse14/",
     deployed: "",
     youtube: "",
   },
