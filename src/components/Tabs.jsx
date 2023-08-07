@@ -100,7 +100,7 @@ function TabsAbout() {
                 overflow: "auto",
               }}
             >
-              am a Software Developer and a proud Army Veteran currently
+              I am a Software Developer and a proud Army Veteran currently
               stationed in NYC. As an individual, I embody a fun, outgoing, and
               free-spirited nature. During my leisure time, you can find me
               indulging in activities such as listening to music, coding,
